@@ -1,3 +1,4 @@
+# Technical_Writing
 # How to Write a README File: Syntax and Structure Guide
 
 A README file is the first point of contact between your project and its users, so it's important to make it clear, informative, and well-structured. Here's a comprehensive guide to creating effective README files.
