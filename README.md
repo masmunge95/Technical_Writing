@@ -240,4 +240,4 @@ Hello World!
 
 ---
 
-This guide covers everything from **basic syntax** to **enterprise-grade documentation practices**. Would you like me to focus on any specific aspect (e.g., open-source vs internal project READMEs)?
+This guide covers everything from **basic syntax** to **enterprise-grade documentation practices**.
